@@ -1,0 +1,17 @@
+.inform{
+    right:720px;
+    color:aliceblue;
+    top:510px;
+    position:absolute;
+    
+}
+.imgs{
+    height:450px;
+    width:1190px;
+}
+.avatar{
+    width:200px;
+    height:200px;
+    position:relative;
+    display:block;
+}

@@ -1,0 +1,31 @@
+.tesla img{
+    height:80px;
+    width:140px;
+    right:40px;
+}
+.tesla{
+    color:aliceblue;
+    
+}
+.tesla img{
+    border-radius:40px;
+    
+}
+.like img{
+    height:25px;
+    width:25px;
+    
+}
+
+.like img:hover{
+    margin-top:-7px;
+    
+    
+}
+
+.like{
+    height:38px;
+    width:38px;
+    
+    
+}

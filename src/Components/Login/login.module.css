@@ -1,0 +1,20 @@
+.but{
+    top:240px;
+    right:1000px;
+}
+
+.h1{
+    color:white;
+}
+.login{
+    color:white;
+    text-shadow:2px 2px 2px rgb(36, 50, 250);
+}
+
+.formSummaryError{
+    border:1px solid red;
+    color: rgb(235, 248, 46);
+    top:50px;
+    width:150px;
+    background-color:red;
+}

@@ -1,0 +1,19 @@
+.userPhoto{
+    width:100px;
+    height:130px;
+}
+.text{color:white;}
+
+.buttons{top:140px;
+    left:400px;
+    width:65px;}
+
+.selectedPage{
+    font-weight:bold;
+    color:aqua;
+    cursor:pointer;
+    text-decoration:underline;
+}
+.pages{color:white;
+cursor:pointer;
+}

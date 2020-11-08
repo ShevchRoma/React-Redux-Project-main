@@ -1,0 +1,32 @@
+.nav{
+    grid-area:n;
+    background:linear-gradient(#d32c2c 50%,black 95%);
+    color:aliceblue;
+    text-indent:20px;
+    text-decoration:none;
+    text-shadow:1px 1px white;
+    font-size:22px;
+    line-height:40px;
+    margin-top:10px;
+    border:3px solid black;
+    
+    }
+.nav div{
+    margin-top:5px;
+    cursor:pointer;
+    line-height:45px;
+    }
+.nav div a{
+    color:aliceblue;
+    text-decoration:none;
+}
+
+.nav div a:hover{
+    text-decoration:underline;
+    transition:0.1s;
+    color:rgb(37, 143, 248);
+}
+
+nav a.active{
+    color:gold;
+}

@@ -1,0 +1,55 @@
+.content{
+    grid-area:c;
+    background-color:#2f1515;
+    margin-top:10px;
+}
+.imgs{
+    height:450px;
+    width:1190px;
+}
+.avatar{
+    width:200px;
+    height:200px;
+    position:relative;
+    display:block;
+}
+.TextEdit{
+    width:500px;
+    height:50px;
+    position:absolute;
+    border:1px solid #2fbe2f;
+    margin-left:30px;
+    border-radius:5px;
+    top:5px;
+}
+button{
+    background-color:darkgreen;
+    font-size:15px;
+    border-radius:10px;
+    color:aliceblue;
+    bottom:40px;
+    position:absolute;
+    float:left;
+    top:65px;
+    height:26px;
+    right:292px;
+    width:57px;
+    
+}
+.posts{
+    color:white;
+    display:inline-block;
+}
+.inform{
+    right:800px;
+    color:aliceblue;
+    top:510px;
+    position:absolute;
+    
+}
+.form__block{
+    height:91px;
+    width:610px;
+    position:relative;
+    top:5px;
+}

@@ -1,0 +1,39 @@
+.header{
+    background:linear-gradient( black 60%,red);
+    
+    grid-area:h;
+    position:relative;
+    
+    
+    
+    
+}
+
+.header img{
+    height:70px;
+    
+    
+}
+
+.logo{
+    color:white;
+    right:210px;
+    position:absolute;
+    top:10px;
+    font-size:30px;
+    text-shadow:2px 2px 2px white,0 0 1em black;
+    font-weight:bold;
+    
+}
+.loginBlock{
+    float: right;
+    
+    font-weight:bold;
+}
+.loginBlock a{
+    color:white;
+}
+.loginBlock :hover{
+    color:red;
+    text-shadow: 1px 1px 1px white;
+}
